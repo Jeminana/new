@@ -9,4 +9,3 @@ class Murid:
         print("Kelas : ", self.kelas)
         print("Nilai : ", self.nilai)
     
-    
